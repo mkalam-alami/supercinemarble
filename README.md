@@ -101,6 +101,6 @@ npm start
 
 ## Licence
 
-Copyright (C) 2020 Marwane Kalam-Alami
+Copyright (C) 2020-2021 Marwane Kalam-Alami et autres contributeurs.
 
 Distribué sous licence [ISC/OpenBSD](https://fr.wikipedia.org/wiki/Licence_ISC).
